@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a Data Analyst and Full Stack Developer skilled in Python, SQL, JavaScript,
+I am a Student Aspiring Data Analyst and Full Stack Developer skilled in Python, SQL, JavaScript,
 React, FastAPI, MongoDB, Power BI, Tableau, and Flutter.
 I enjoy analyzing data, building scalable applications, and transforming insights
 into real-world solutions.
