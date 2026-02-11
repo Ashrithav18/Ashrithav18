@@ -50,7 +50,7 @@ into real-world solutions.
 ## 📫 Connect With Me
 - 📧 Email: ashrithav11@gmail.com  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ashritha-valakonda-a486ba2bb)  
-- 🌐 Portfolio: *(Add your Lovable portfolio link here)*  
+- 🌐 Portfolio: https://ashritha-protfolio.lovable.app  
 
 ---
 
