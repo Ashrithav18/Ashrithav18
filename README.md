@@ -73,7 +73,16 @@ into real-world solutions.
 ## 📫 Connect With Me
 - 📧 Email: ashrithav11@gmail.com  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ashritha-valakonda-a486ba2bb)  
-- 🌐 Portfolio: https://ashritha-protfolio.lovable.app  
+- 🌐 Portfolio: https://ashritha-protfolio.lovable.app
+
+- ---
+<p align="center">
+  <a href="https://github.com/Ashrithav18">
+    <img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+![Followers](https://img.shields.io/github/followers/Ashrithav18?style=for-the-badge&logo=github)
 
 ---
 
