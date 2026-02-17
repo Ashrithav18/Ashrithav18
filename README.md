@@ -82,7 +82,7 @@ into real-world solutions.
   </a>
 </p>
 
-![Followers](https://img.shields.io/github/followers/Ashrithav18?style=for-the-badge&logo=github)
+
 
 ---
 
